@@ -9,7 +9,7 @@ A meditative 10,000-particle countdown built with Three.js. Watch ten thousand p
 ## Try It
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/AndrewVoirol/ais-fluid-figures-3d-wedgl-particle-practice.git
 cd ais-fluid-figures-3d-wedgl-particle-practice
 npm install
 npm run dev
